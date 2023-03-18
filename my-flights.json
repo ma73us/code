@@ -279,6 +279,76 @@
             "endLat": 9.95,
             "endLng": -84.14,
             "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 21,
+            "from" : "CPT",
+            "to": "AMS",
+            "flightCode": "PX 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": -33.93,
+            "startLng": 18.42,
+            "endLat": 52.37,
+            "endLng": 4.90,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 22,
+            "from" : "LAD",
+            "to": "MUC",
+            "flightCode": "AZ 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": -8.83,
+            "startLng": 13.23,
+            "endLat": 48.14,
+            "endLng": 11.58,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 23,
+            "from" : "ACC",
+            "to": "BCN",
+            "flightCode": "DG 551",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 5.61,
+            "startLng": -0.17,
+            "endLat": 41.39,
+            "endLng": 2.15,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 24,
+            "from" : "KRT",
+            "to": "PAR",
+            "flightCode": "PX 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 15.58,
+            "startLng": 32.55,
+            "endLat": 48.85,
+            "endLng": 2.34,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 25,
+            "from" : "DAR",
+            "to": "LHR",
+            "flightCode": "AZ 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": -6.79,
+            "startLng": 39.20,
+            "endLat": 51.47,
+            "endLng": -0.45,
+            "arcAlt": 0.2 
         }
     ]
         
