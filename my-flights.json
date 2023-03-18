@@ -209,7 +209,77 @@
             "endLat": 59.65,
             "endLng": 17.93,
             "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 16,
+            "from" : "CAI",
+            "to": "BRU",
+            "flightCode": "PX 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 30.06,
+            "startLng": 31.25,
+            "endLat": 50.87,
+            "endLng": 4.33,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 17,
+            "from" : "DXB",
+            "to": "LIS",
+            "flightCode": "AZ 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 25.27,
+            "startLng": 55.36,
+            "endLat": 38.77,
+            "endLng": 9.13,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 18,
+            "from" : "RUH",
+            "to": "DEL",
+            "flightCode": "DG 551",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 24.95,
+            "startLng": 46.70,
+            "endLat": 28.67,
+            "endLng": 77.23,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 19,
+            "from" : "BOM",
+            "to": "YYZ",
+            "flightCode": "PX 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 19.09,
+            "startLng": 72.87,
+            "endLat": 43.64,
+            "endLng": -79.38,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 20,
+            "from" : "MEX",
+            "to": "SJO",
+            "flightCode": "AZ 778",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 19.43,
+            "startLng": -99.13,
+            "endLat": 9.95,
+            "endLng": -84.14,
+            "arcAlt": 0.2 
         }
-      ]
+    ]
         
 }
