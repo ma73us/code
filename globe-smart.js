@@ -4,7 +4,7 @@ import OrbitControls from "https://cdn.skypack.dev/orbit-controls-es6@2.0.1";
 const
 	globe_map_url = "https://github.githubassets.com/images/modules/site/home/globe/map.png",
 	image = new Image(),
-	globe_el = document.getElementById("globe"),
+	globe_el = document.getElementById("globeViz"),
 	{width: W, height: H, x: X, y: Y} = globe_el.getBoundingClientRect(),
 	GLOBE_RADIUS = 25,
 	DEG2RAD = Math.PI / 180,
